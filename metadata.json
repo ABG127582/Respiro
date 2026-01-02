@@ -1,0 +1,7 @@
+{
+  "name": "Respiro - Respiração Adaptativa",
+  "description": "Um treinador de respiração com biofeedback científico que se adapta ao seu estado fisiológico. Apresenta simulação de estimativa de estado em tempo real e padrões de respiração clinicamente validados.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
